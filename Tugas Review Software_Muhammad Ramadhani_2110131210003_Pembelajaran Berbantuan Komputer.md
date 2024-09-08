@@ -14,7 +14,7 @@ Stack Overflow sebagai alat untuk menemukan solusi dari permasalah yang dialami 
 ### Sebagai Murid
 Pengguna Stack Overflow berperan sebagai murid yang belajar dari komunitas ini. Dengan mekanisme pengguna dapat mengajukan pertanyaan selayaknya murid lalu peran komunitas adalah sebagai guru yang akan menjawab pertanyaan itu. Selain itu para pengguna juga akan mengetahui apa yang belum mereka ketahui sebelumnya dengan memanfaatkan fitur diskusi. Stack overflow juga membantu mengasah kemamputan problem solving, critical thinking dengan menjawab pertanyaan dari pengguna lain dan membuat pertanyaan yang baik dan benar.
 
-#### Tampilan halaman Stack Overflow
+#### Tampilan halaman Stack Overflow Sesuai Pengalaman Saya
 
 **Halaman Home**
 
@@ -63,6 +63,38 @@ Disini kita dapat melihat pertanyaan dari pengguna, dapat dilihat pertanyaan ter
 <img src="img/answer.png" alt="answer" width="800"/>
 
 Dibawah dari pertanyaan tersebut kita dapat melihat jawaban dari ahli, dapat dilihat jawaban tersebut memiliki 1050 vote yang berarti relevan dan dapat membantu pengguna lain. Jawaban tersebut juga memiliki tag Answer recomended by PHP Collective yang berarti itu direkomendasikan PHP Collective.
+
+#### Berdasarkan Informasi Primer
+
+- Stack overflow telah berusia 15 tahun menjadi kepercayaan dan dengan pengetahuan yang tinggi
+- Terdapat partanyaan baru setiap 14 Detik
+- Total terdapat 58.000.000 lebih pertanyaan
+- 51 miliar kali pengetahuan yang digunakan
+- Stackoverflow bekerjasama dengan banyak perusahaan seperti
+  - Microsoft
+  - PHILIPS
+  - Logitech
+  - box
+  - dll
+
+#### Berdasarkan informasi sekunder
+
+Oleh : Singapore Management University
+
+Judul : An Empirical study on Developer Interactions in StackOverflow
+
+3 - 2013
+
+**Abstrak**
+
+StackOverflow menyediakan platform populer tempat pengembang memposting dan menjawab pertanyaan. Baru-baru ini, Treude dkk. beri label 385 pertanyaan secara manual di StackOverflow dan kelompokkan ke dalam 10 kategori berdasarkan isinya. Mereka juga menganalisis bagaimana tag digunakan di StackOverflow. Dalam studi ini, kami memperluas pekerjaan mereka untuk memperoleh pemahaman yang lebih dalam tentang bagaimana pengembang berinteraksi satu sama lain di situs web tanya jawab. Pertama, kami menganalisis distribusi pengembang yang bertanya dan menjawab pertanyaan. Kami juga menyelidiki apakah ada pemisahan komunitas StackOverflow menjadi penanya dan penjawab. Kami juga melakukan penambangan teks otomatis untuk menemukan berbagai macam topik yang ditanyakan oleh pengembang. Kami menggunakan Latent Dirichlet Allocation (LDA), sebuah pendekatan pemodelan topik yang terkenal, untuk menganalisis isi dari puluhan ribu pertanyaan dan jawaban, dan menghasilkan lima topik. Strategi pemodelan topik kami memberikan perspektif alternatif yang berbeda dari Treude et al. untuk mengkategorikan pertanyaan StackOverflow. Setiap pertanyaan kini dapat dikategorikan ke dalam beberapa topik dengan probabilitas berbeda, dan model topik yang dipelajari dapat secara otomatis menetapkan pertanyaan baru ke beberapa kategori dengan probabilitas berbeda-beda. Terakhir, kami menunjukkan distribusi pertanyaan dan pengembang terkait berbagai topik yang dihasilkan oleh LDA.
+
+Dari paper tersebut, saya menemukan:
+- Orang cenderung lebih banyak bertanya dari pada menjawab
+
+Statistik pertanyaan di StackOverflow di tahun 2013
+
+<img src="img/statistik.png" alt="logo stack overflow" width="500"/>
 
 ### Kesimpulan
 
